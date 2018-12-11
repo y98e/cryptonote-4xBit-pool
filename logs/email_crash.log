@@ -1,0 +1,924 @@
+2018-12-10 08:57:42
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:42
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:42
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:42
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:45
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:45
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:45
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:46
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:49
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:49
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:49
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:49
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:52
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:52
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:52
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:52
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:55
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:55
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:55
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:55
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:58
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:58
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:58
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:57:58
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:58:00
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:58:01
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:58:01
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:58:01
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:58:03
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:58:04
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:58:04
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:58:04
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+
+2018-12-10 08:58:05
+Error: Could not locate the bindings file. Tried:
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Debug/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/out/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/Release/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/build/default/cryptoforknote.node
+ → /home/heliang/pool/node_modules/cryptoforknote-util/compiled/8.12.0/linux/x64/cryptoforknote.node
+    at bindings (/home/heliang/pool/node_modules/bindings/bindings.js:96:9)
+    at Object.<anonymous> (/home/heliang/pool/node_modules/cryptoforknote-util/index.js:1:99)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/heliang/pool/lib/utils.js:7:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Module.require (module.js:597:17)
+

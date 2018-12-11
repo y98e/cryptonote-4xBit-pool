@@ -1,0 +1,664 @@
+2018-12-10 09:14:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 09:14:07 Payments failed to send to {"amount":23800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 09:19:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 09:19:07 Payments failed to send to {"amount":24200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 09:24:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 09:24:07 Payments failed to send to {"amount":24400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 09:29:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 09:29:07 Payments failed to send to {"amount":24700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 09:34:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 09:34:07 Payments failed to send to {"amount":24900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 09:39:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 09:39:07 Payments failed to send to {"amount":25100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 09:44:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 09:44:07 Payments failed to send to {"amount":25100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 09:49:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 09:49:07 Payments failed to send to {"amount":25100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 09:54:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 09:54:07 Payments failed to send to {"amount":25300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 09:59:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 09:59:07 Payments failed to send to {"amount":25400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 10:04:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 10:04:07 Payments failed to send to {"amount":25800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 10:09:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 10:09:07 Payments failed to send to {"amount":25900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 10:14:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 10:14:07 Payments failed to send to {"amount":26200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 10:19:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 10:19:07 Payments failed to send to {"amount":26200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 10:24:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 10:24:07 Payments failed to send to {"amount":26300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 10:29:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 10:29:07 Payments failed to send to {"amount":26400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 10:34:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 10:34:07 Payments failed to send to {"amount":26400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 10:39:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 10:39:07 Payments failed to send to {"amount":26500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 10:44:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 10:44:07 Payments failed to send to {"amount":26600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 10:49:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 10:49:07 Payments failed to send to {"amount":26700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 10:54:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 10:54:07 Payments failed to send to {"amount":26900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 10:59:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 10:59:07 Payments failed to send to {"amount":27000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 11:04:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 11:04:07 Payments failed to send to {"amount":27100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 11:09:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 11:09:07 Payments failed to send to {"amount":27200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 11:14:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 11:14:07 Payments failed to send to {"amount":27300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 11:19:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 11:19:07 Payments failed to send to {"amount":27500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 11:24:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 11:24:07 Payments failed to send to {"amount":27600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 11:29:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 11:29:07 Payments failed to send to {"amount":27600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 11:34:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 11:34:07 Payments failed to send to {"amount":27700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 11:39:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 11:39:07 Payments failed to send to {"amount":27800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 11:44:07 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 11:44:07 Payments failed to send to {"amount":27900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 11:49:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 11:49:08 Payments failed to send to {"amount":28000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 11:54:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 11:54:08 Payments failed to send to {"amount":28100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 11:59:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 11:59:08 Payments failed to send to {"amount":28100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 12:04:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 12:04:08 Payments failed to send to {"amount":28100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 12:09:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 12:09:08 Payments failed to send to {"amount":28100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 12:14:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 12:14:08 Payments failed to send to {"amount":28100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 12:19:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 12:19:08 Payments failed to send to {"amount":28100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 12:24:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 12:24:08 Payments failed to send to {"amount":28100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 12:29:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 12:29:08 Payments failed to send to {"amount":28200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 12:34:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 12:34:08 Payments failed to send to {"amount":28300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 12:39:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 12:39:08 Payments failed to send to {"amount":28400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 12:44:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 12:44:08 Payments failed to send to {"amount":28500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 12:49:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 12:49:08 Payments failed to send to {"amount":28500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 12:54:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 12:54:08 Payments failed to send to {"amount":28500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 12:59:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 12:59:08 Payments failed to send to {"amount":28500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 13:04:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 13:04:08 Payments failed to send to {"amount":28500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 13:09:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 13:09:08 Payments failed to send to {"amount":28500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 13:14:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 13:14:08 Payments failed to send to {"amount":28600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 13:19:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 13:19:08 Payments failed to send to {"amount":28800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 13:24:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 13:24:08 Payments failed to send to {"amount":28900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 13:29:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 13:29:08 Payments failed to send to {"amount":29000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 13:34:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 13:34:08 Payments failed to send to {"amount":29100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 13:39:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 13:39:08 Payments failed to send to {"amount":29200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 13:44:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 13:44:08 Payments failed to send to {"amount":29300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 13:49:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 13:49:08 Payments failed to send to {"amount":29400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 13:54:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 13:54:08 Payments failed to send to {"amount":29600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 13:59:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 13:59:08 Payments failed to send to {"amount":29600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 14:04:08 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 14:04:08 Payments failed to send to {"amount":29700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 14:09:34 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 14:09:34 Payments failed to send to {"amount":29900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 14:14:34 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 14:14:34 Payments failed to send to {"amount":30000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 14:19:34 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 14:19:34 Payments failed to send to {"amount":30100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 14:24:34 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 14:24:34 Payments failed to send to {"amount":30200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 14:29:34 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 14:29:34 Payments failed to send to {"amount":30200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 14:34:34 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 14:34:34 Payments failed to send to {"amount":30300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 14:39:34 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 14:39:34 Payments failed to send to {"amount":30500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 14:44:34 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 14:44:34 Payments failed to send to {"amount":30600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 14:49:34 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 14:49:34 Payments failed to send to {"amount":30700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 14:54:34 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 14:54:34 Payments failed to send to {"amount":30900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 14:59:34 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 14:59:34 Payments failed to send to {"amount":31000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 15:04:34 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 15:04:34 Payments failed to send to {"amount":31000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 15:09:34 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 15:09:34 Payments failed to send to {"amount":31100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 15:14:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 15:14:35 Payments failed to send to {"amount":31100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 15:19:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 15:19:35 Payments failed to send to {"amount":31100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 15:24:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 15:24:35 Payments failed to send to {"amount":31200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 15:29:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 15:29:35 Payments failed to send to {"amount":31300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 15:34:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 15:34:35 Payments failed to send to {"amount":31500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 15:39:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 15:39:35 Payments failed to send to {"amount":31600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 15:44:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 15:44:35 Payments failed to send to {"amount":31800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 15:49:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 15:49:35 Payments failed to send to {"amount":31800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 15:54:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 15:54:35 Payments failed to send to {"amount":31900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 15:59:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 15:59:35 Payments failed to send to {"amount":32000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 16:04:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 16:04:35 Payments failed to send to {"amount":32100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 16:09:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 16:09:35 Payments failed to send to {"amount":32200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 16:14:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 16:14:35 Payments failed to send to {"amount":32200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 16:19:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 16:19:35 Payments failed to send to {"amount":32400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 16:24:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 16:24:35 Payments failed to send to {"amount":32600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 16:29:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 16:29:35 Payments failed to send to {"amount":32700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 16:34:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 16:34:35 Payments failed to send to {"amount":32800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 16:39:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 16:39:35 Payments failed to send to {"amount":33000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 16:44:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 16:44:35 Payments failed to send to {"amount":33100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 16:49:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 16:49:35 Payments failed to send to {"amount":33200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 16:54:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 16:54:35 Payments failed to send to {"amount":33300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 16:59:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 16:59:35 Payments failed to send to {"amount":33500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 17:04:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 17:04:35 Payments failed to send to {"amount":33600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 17:09:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 17:09:35 Payments failed to send to {"amount":33700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 17:14:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 17:14:35 Payments failed to send to {"amount":33800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 17:19:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 17:19:35 Payments failed to send to {"amount":33900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 17:24:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 17:24:35 Payments failed to send to {"amount":34000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 17:29:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 17:29:35 Payments failed to send to {"amount":34100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 17:34:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 17:34:35 Payments failed to send to {"amount":34100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 17:39:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 17:39:35 Payments failed to send to {"amount":34100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 17:44:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 17:44:35 Payments failed to send to {"amount":34200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 17:49:35 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 17:49:35 Payments failed to send to {"amount":34200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 17:54:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 17:54:36 Payments failed to send to {"amount":34300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 17:59:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 17:59:36 Payments failed to send to {"amount":34400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 18:04:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 18:04:36 Payments failed to send to {"amount":34400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 18:09:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 18:09:36 Payments failed to send to {"amount":34500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 18:14:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 18:14:36 Payments failed to send to {"amount":34500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 18:19:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 18:19:36 Payments failed to send to {"amount":34600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 18:24:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 18:24:36 Payments failed to send to {"amount":34600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 18:29:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 18:29:36 Payments failed to send to {"amount":34700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 18:34:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 18:34:36 Payments failed to send to {"amount":34700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 18:39:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 18:39:36 Payments failed to send to {"amount":34800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 18:44:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 18:44:36 Payments failed to send to {"amount":34900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 18:49:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 18:49:36 Payments failed to send to {"amount":35000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 18:54:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 18:54:36 Payments failed to send to {"amount":35100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 18:59:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 18:59:36 Payments failed to send to {"amount":35200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 19:04:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 19:04:36 Payments failed to send to {"amount":35200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 19:09:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 19:09:36 Payments failed to send to {"amount":35300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 19:14:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 19:14:36 Payments failed to send to {"amount":35300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 19:19:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 19:19:36 Payments failed to send to {"amount":35300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 19:24:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 19:24:36 Payments failed to send to {"amount":35300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 19:29:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 19:29:36 Payments failed to send to {"amount":35400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 19:34:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 19:34:36 Payments failed to send to {"amount":35500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 19:39:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 19:39:36 Payments failed to send to {"amount":35600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 19:44:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 19:44:36 Payments failed to send to {"amount":35600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 19:49:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 19:49:36 Payments failed to send to {"amount":35700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 19:54:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 19:54:36 Payments failed to send to {"amount":35800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 19:59:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 19:59:36 Payments failed to send to {"amount":35800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 20:04:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 20:04:36 Payments failed to send to {"amount":35900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 20:09:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 20:09:36 Payments failed to send to {"amount":35900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 20:14:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 20:14:36 Payments failed to send to {"amount":36000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 20:19:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 20:19:36 Payments failed to send to {"amount":36000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 20:24:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 20:24:36 Payments failed to send to {"amount":36100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 20:29:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 20:29:36 Payments failed to send to {"amount":36200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 20:34:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 20:34:36 Payments failed to send to {"amount":36200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 20:39:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 20:39:36 Payments failed to send to {"amount":36200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 20:44:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 20:44:36 Payments failed to send to {"amount":36300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 20:49:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 20:49:36 Payments failed to send to {"amount":36400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 20:54:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 20:54:36 Payments failed to send to {"amount":36400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 20:59:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 20:59:36 Payments failed to send to {"amount":36500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 21:04:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 21:04:36 Payments failed to send to {"amount":36500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 21:09:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 21:09:36 Payments failed to send to {"amount":36600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 21:14:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 21:14:36 Payments failed to send to {"amount":36600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 21:19:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 21:19:36 Payments failed to send to {"amount":36700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 21:24:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 21:24:36 Payments failed to send to {"amount":36700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 21:29:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 21:29:36 Payments failed to send to {"amount":36800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 21:34:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 21:34:36 Payments failed to send to {"amount":37000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 21:39:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 21:39:36 Payments failed to send to {"amount":37000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 21:44:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 21:44:36 Payments failed to send to {"amount":37000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 21:49:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 21:49:36 Payments failed to send to {"amount":37100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 21:54:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 21:54:36 Payments failed to send to {"amount":37200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 21:59:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 21:59:36 Payments failed to send to {"amount":37200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 22:04:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 22:04:36 Payments failed to send to {"amount":37300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 22:09:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 22:09:36 Payments failed to send to {"amount":37400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 22:14:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 22:14:36 Payments failed to send to {"amount":37400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 22:19:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 22:19:36 Payments failed to send to {"amount":37500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 22:24:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 22:24:36 Payments failed to send to {"amount":37600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 22:29:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 22:29:36 Payments failed to send to {"amount":37600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 22:34:36 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 22:34:36 Payments failed to send to {"amount":37600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 22:39:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 22:39:37 Payments failed to send to {"amount":37700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 22:44:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 22:44:37 Payments failed to send to {"amount":37800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 22:49:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 22:49:37 Payments failed to send to {"amount":37800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 22:54:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 22:54:37 Payments failed to send to {"amount":37900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 22:59:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 22:59:37 Payments failed to send to {"amount":37900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 23:04:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 23:04:37 Payments failed to send to {"amount":38000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 23:09:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 23:09:37 Payments failed to send to {"amount":38100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 23:14:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 23:14:37 Payments failed to send to {"amount":38300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 23:19:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 23:19:37 Payments failed to send to {"amount":38400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 23:24:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 23:24:37 Payments failed to send to {"amount":38400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 23:29:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 23:29:37 Payments failed to send to {"amount":38500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 23:34:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 23:34:37 Payments failed to send to {"amount":38500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 23:39:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 23:39:37 Payments failed to send to {"amount":38600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 23:44:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 23:44:37 Payments failed to send to {"amount":38700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 23:49:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 23:49:37 Payments failed to send to {"amount":38800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 23:54:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 23:54:37 Payments failed to send to {"amount":38900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-10 23:59:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-10 23:59:37 Payments failed to send to {"amount":38900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 00:04:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 00:04:37 Payments failed to send to {"amount":39000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 00:09:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 00:09:37 Payments failed to send to {"amount":39100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 00:14:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 00:14:37 Payments failed to send to {"amount":39200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 00:19:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 00:19:37 Payments failed to send to {"amount":39300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 00:24:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 00:24:37 Payments failed to send to {"amount":39400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 00:29:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 00:29:37 Payments failed to send to {"amount":39400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 00:34:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 00:34:37 Payments failed to send to {"amount":39600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 00:39:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 00:39:37 Payments failed to send to {"amount":39600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 00:44:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 00:44:37 Payments failed to send to {"amount":39600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 00:49:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 00:49:37 Payments failed to send to {"amount":39600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 00:54:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 00:54:37 Payments failed to send to {"amount":39700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 00:59:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 00:59:37 Payments failed to send to {"amount":39700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 01:04:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 01:04:37 Payments failed to send to {"amount":39800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 01:09:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 01:09:37 Payments failed to send to {"amount":39800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 01:14:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 01:14:37 Payments failed to send to {"amount":39900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 01:19:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 01:19:37 Payments failed to send to {"amount":39900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 01:24:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 01:24:37 Payments failed to send to {"amount":40000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 01:29:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 01:29:37 Payments failed to send to {"amount":40100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 01:34:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 01:34:37 Payments failed to send to {"amount":40200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 01:39:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 01:39:37 Payments failed to send to {"amount":40300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 01:44:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 01:44:37 Payments failed to send to {"amount":40500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 01:49:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 01:49:37 Payments failed to send to {"amount":40500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 01:54:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 01:54:37 Payments failed to send to {"amount":40600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 01:59:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 01:59:37 Payments failed to send to {"amount":40600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 02:04:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 02:04:37 Payments failed to send to {"amount":40700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 02:09:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 02:09:37 Payments failed to send to {"amount":40800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 02:14:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 02:14:37 Payments failed to send to {"amount":40800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 02:19:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 02:19:37 Payments failed to send to {"amount":40800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 02:24:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 02:24:37 Payments failed to send to {"amount":40900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 02:29:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 02:29:37 Payments failed to send to {"amount":41000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 02:34:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 02:34:37 Payments failed to send to {"amount":41100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 02:39:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 02:39:37 Payments failed to send to {"amount":41100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 02:44:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 02:44:37 Payments failed to send to {"amount":41200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 02:49:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 02:49:37 Payments failed to send to {"amount":41300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 02:54:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 02:54:37 Payments failed to send to {"amount":41400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 02:59:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 02:59:37 Payments failed to send to {"amount":41500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 03:04:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 03:04:37 Payments failed to send to {"amount":41500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 03:09:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 03:09:37 Payments failed to send to {"amount":41600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 03:14:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 03:14:37 Payments failed to send to {"amount":41700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 03:19:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 03:19:37 Payments failed to send to {"amount":41800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 03:24:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 03:24:37 Payments failed to send to {"amount":41800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 03:29:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 03:29:37 Payments failed to send to {"amount":41900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 03:34:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 03:34:37 Payments failed to send to {"amount":42000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 03:39:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 03:39:37 Payments failed to send to {"amount":42000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 03:44:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 03:44:37 Payments failed to send to {"amount":42000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 03:49:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 03:49:37 Payments failed to send to {"amount":42100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 03:54:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 03:54:37 Payments failed to send to {"amount":42300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 03:59:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 03:59:37 Payments failed to send to {"amount":42300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 04:04:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 04:04:37 Payments failed to send to {"amount":42500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 04:09:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 04:09:37 Payments failed to send to {"amount":42500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 04:14:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 04:14:37 Payments failed to send to {"amount":42600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 04:19:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 04:19:37 Payments failed to send to {"amount":42600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 04:24:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 04:24:37 Payments failed to send to {"amount":42700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 04:29:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 04:29:37 Payments failed to send to {"amount":42700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 04:34:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 04:34:37 Payments failed to send to {"amount":42800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 04:39:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 04:39:37 Payments failed to send to {"amount":42900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 04:44:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 04:44:37 Payments failed to send to {"amount":42900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 04:49:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 04:49:37 Payments failed to send to {"amount":43000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 04:54:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 04:54:37 Payments failed to send to {"amount":43000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 04:59:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 04:59:37 Payments failed to send to {"amount":43200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 05:04:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 05:04:37 Payments failed to send to {"amount":43200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 05:09:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 05:09:37 Payments failed to send to {"amount":43300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 05:14:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 05:14:37 Payments failed to send to {"amount":43400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 05:19:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 05:19:37 Payments failed to send to {"amount":43400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 05:24:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 05:24:37 Payments failed to send to {"amount":43500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 05:29:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 05:29:37 Payments failed to send to {"amount":43500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 05:34:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 05:34:37 Payments failed to send to {"amount":43600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 05:39:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 05:39:37 Payments failed to send to {"amount":43700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 05:44:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 05:44:37 Payments failed to send to {"amount":43700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 05:49:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 05:49:37 Payments failed to send to {"amount":43800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 05:54:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 05:54:37 Payments failed to send to {"amount":43900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 05:59:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 05:59:37 Payments failed to send to {"amount":43900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 06:04:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 06:04:37 Payments failed to send to {"amount":44000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 06:09:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 06:09:37 Payments failed to send to {"amount":44000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 06:14:37 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 06:14:37 Payments failed to send to {"amount":44100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 06:19:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 06:19:38 Payments failed to send to {"amount":44100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 06:24:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 06:24:38 Payments failed to send to {"amount":44200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 06:29:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 06:29:38 Payments failed to send to {"amount":44300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 06:34:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 06:34:38 Payments failed to send to {"amount":44400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 06:39:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 06:39:38 Payments failed to send to {"amount":44400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 06:44:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 06:44:38 Payments failed to send to {"amount":44500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 06:49:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 06:49:38 Payments failed to send to {"amount":44600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 06:54:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 06:54:38 Payments failed to send to {"amount":44700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 06:59:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 06:59:38 Payments failed to send to {"amount":44700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 07:04:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 07:04:38 Payments failed to send to {"amount":44700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 07:09:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 07:09:38 Payments failed to send to {"amount":44800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 07:14:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 07:14:38 Payments failed to send to {"amount":44900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 07:19:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 07:19:38 Payments failed to send to {"amount":44900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 07:24:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 07:24:38 Payments failed to send to {"amount":45000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 07:29:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 07:29:38 Payments failed to send to {"amount":45100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 07:34:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 07:34:38 Payments failed to send to {"amount":45200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 07:39:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 07:39:38 Payments failed to send to {"amount":45300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 07:44:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 07:44:38 Payments failed to send to {"amount":45300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 07:49:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 07:49:38 Payments failed to send to {"amount":45300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 07:54:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 07:54:38 Payments failed to send to {"amount":45500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 07:59:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 07:59:38 Payments failed to send to {"amount":45600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 08:04:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 08:04:38 Payments failed to send to {"amount":45600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 08:09:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 08:09:38 Payments failed to send to {"amount":45800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 08:14:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 08:14:38 Payments failed to send to {"amount":45800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 08:19:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 08:19:38 Payments failed to send to {"amount":45900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 08:24:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 08:24:38 Payments failed to send to {"amount":45900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 08:29:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 08:29:38 Payments failed to send to {"amount":46000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 08:34:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 08:34:38 Payments failed to send to {"amount":46000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 08:39:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 08:39:38 Payments failed to send to {"amount":46100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 08:44:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 08:44:38 Payments failed to send to {"amount":46200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 08:49:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 08:49:38 Payments failed to send to {"amount":46300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 08:54:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 08:54:38 Payments failed to send to {"amount":46400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 08:59:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 08:59:38 Payments failed to send to {"amount":46500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 09:04:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 09:04:38 Payments failed to send to {"amount":46500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 09:09:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 09:09:38 Payments failed to send to {"amount":46600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 09:14:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 09:14:38 Payments failed to send to {"amount":46600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 09:19:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 09:19:38 Payments failed to send to {"amount":46700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 09:24:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 09:24:38 Payments failed to send to {"amount":46800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 09:29:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 09:29:38 Payments failed to send to {"amount":46800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 09:34:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 09:34:38 Payments failed to send to {"amount":46800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 09:39:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 09:39:38 Payments failed to send to {"amount":47100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 09:44:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 09:44:38 Payments failed to send to {"amount":47100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 09:49:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 09:49:38 Payments failed to send to {"amount":47100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 09:54:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 09:54:38 Payments failed to send to {"amount":47200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 09:59:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 09:59:38 Payments failed to send to {"amount":47200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 10:04:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 10:04:38 Payments failed to send to {"amount":47200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 10:09:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 10:09:38 Payments failed to send to {"amount":47300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 10:14:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 10:14:38 Payments failed to send to {"amount":47400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 10:19:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 10:19:38 Payments failed to send to {"amount":47400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 10:24:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 10:24:38 Payments failed to send to {"amount":47500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 10:29:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 10:29:38 Payments failed to send to {"amount":47600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 10:34:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 10:34:38 Payments failed to send to {"amount":47700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 10:39:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 10:39:38 Payments failed to send to {"amount":47800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 10:44:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 10:44:38 Payments failed to send to {"amount":47900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 10:49:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 10:49:38 Payments failed to send to {"amount":48000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 10:54:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 10:54:38 Payments failed to send to {"amount":48100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 10:59:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 10:59:38 Payments failed to send to {"amount":48300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 11:04:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 11:04:38 Payments failed to send to {"amount":48400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 11:09:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 11:09:38 Payments failed to send to {"amount":48500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 11:14:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 11:14:38 Payments failed to send to {"amount":48500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 11:19:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 11:19:38 Payments failed to send to {"amount":48600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 11:24:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 11:24:38 Payments failed to send to {"amount":48700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 11:29:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 11:29:38 Payments failed to send to {"amount":48800000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 11:34:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 11:34:38 Payments failed to send to {"amount":48900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 11:39:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 11:39:38 Payments failed to send to {"amount":49000000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 11:44:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 11:44:38 Payments failed to send to {"amount":49100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 11:49:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 11:49:38 Payments failed to send to {"amount":49100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 11:54:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 11:54:38 Payments failed to send to {"amount":49100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 11:59:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 11:59:38 Payments failed to send to {"amount":49100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 12:04:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 12:04:38 Payments failed to send to {"amount":49100000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 12:09:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 12:09:38 Payments failed to send to {"amount":49200000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 12:14:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 12:14:38 Payments failed to send to {"amount":49300000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 12:19:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 12:19:38 Payments failed to send to {"amount":49400000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 12:24:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 12:24:38 Payments failed to send to {"amount":49500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 12:29:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 12:29:38 Payments failed to send to {"amount":49500000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 12:34:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 12:34:38 Payments failed to send to {"amount":49600000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 12:39:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 12:39:38 Payments failed to send to {"amount":49700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 12:44:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 12:44:38 Payments failed to send to {"amount":49700000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
+2018-12-11 12:49:38 Error with transfer RPC request to wallet daemon {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":1812}
+2018-12-11 12:49:38 Payments failed to send to {"amount":49900000000000,"address":"N8AQiccohYGZDEKU95h7KdEogU7wiejqwb7UeqeXTYKGNB6DcYt4cswDWWk1tp5Xka2HBumjUkueLNJWtTR1c2kKNhpCVZA"}
