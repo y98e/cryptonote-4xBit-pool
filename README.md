@@ -1,7 +1,7 @@
-cryptonote-alloy-pool
+cryptonote-4xBit-pool
 ======================
 
-High performance Node.js (with native C addons) mining pool for Alloy-Cryptonight algorithm. (Alloy Project)
+High performance Node.js (with native C addons) mining pool for Alloy-Cryptonight algorithm. 
 
 
 #### Table of Contents
@@ -58,7 +58,7 @@ Features
 #### Mined blocks explorer
 * Mined blocks table with block status (pending, confirmed, and orphaned)
 * Blocks luck (shares/difficulty) statistics
-* Universal blocks and transactions explorer based on [alloyexplorer.com](https://alloyexplorer.com)
+* Universal blocks and transactions explorer 
 
 #### Smart payment processing
 * Splintered transactions to deal with max transaction size
@@ -90,10 +90,6 @@ Features
 * Top 10 miners report
 * Multilingual user interface
 
-
-#### Pools Using This Software
-
-* http://alloy.cloudns.eu
 
 Usage
 ===
@@ -132,7 +128,7 @@ you are using - a good place to start with redis is [data persistence](http://re
 Clone the repository and run `npm update` for all the dependencies to be installed:
 
 ```bash
-git clone https://github.com/dvandal/cryptonote-nodejs-pool.git pool
+git clone https://github.com/y98e/cryptonote-4xBit-pool.git pool
 cd pool
 
 npm update
@@ -163,7 +159,7 @@ Explanation for each field:
 "coinDifficultyTarget": 120,
 
 /* Set Cryptonight algorithm settings.
-   Supported algorithms: cryptonight (default). cryptonight_light and cryptonight_heavy
+   Supported algorithms: cryptonight (default). cryptonight_light and cryptonight_heavy , cryptonight-alloy
    Supported variants for "cryptonight": 0 (Original), 1 (Monero v7), 3 (Stellite / XTL)
    Supported variants for "cryptonight_light": 0 (Original), 1 (Aeon v7), 2 (IPBC)
    Supported blob types: 0 (Cryptonote), 1 (Forknote v1), 2 (Forknote v2), 3 (Cryptonote v2 / Masari) */
@@ -707,7 +703,7 @@ Donations
 
 You can send any amount of your choice to this address:
 
-* Alloy (XAO): `A4XhHr1vRn44nzgtq6vfUjMtvUkHVk4fp4LW9oAUpCTPSPVgpjpDT9EdZUsKUaRzXj4qL4J1fEwCc4K3VLfhJvBuEXXxch7`
+* 4xBit (4xB): `NBZGqHz5KgVW7AAYDG9sKgFa24VaEqbANN4Uhn5Et3eM4rqLDDTvUB5TWbERXhQr8xhkYAmkHWnx1gL75LbDU2KFA37Lv23`
 
 
 Credits
